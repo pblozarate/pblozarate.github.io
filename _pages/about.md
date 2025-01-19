@@ -20,6 +20,6 @@ You can find my CV here and you can reach me at <a href="mailto:zaratecisternas@
 </p>
 
 <p align="justify">
-Fun Fact: There is another Pablo Zarate, who also happens to be interested in Labor Economics. Check out his <a href="https://zaratepablo.github.io" style="color: black;">website</a>  
+Fun Fact: There is another Pablo Zarate, who also happens to be interested in Labor Economics. Check out his <a href="https://zaratepablo.github.io" style="color: black;">website.</a>  
 </p>
 
