@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="justify">  
-Welcome!</a>
+Welcome!
 </p>
 
 <p align="justify">  
