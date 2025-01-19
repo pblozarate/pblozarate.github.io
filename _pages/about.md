@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="justify">  
-Welcome!</a>.
+Welcome!</a>
 </p>
 
 <p align="justify">  
@@ -25,6 +25,6 @@ You can find my CV here
 </p>
 
 <p align="justify">
-Fun Fact: There is another Pablo Zarate, who also happens to be interested in Labor Economics. Check out his <a href="https://zaratepablo.github.io" style="color: black;">website</a>!  
+Fun Fact: There is another Pablo Zarate, who also happens to be interested in Labor Economics. Check out his <a href="https://zaratepablo.github.io" style="color: black;">website</a>  
 </p>
 
