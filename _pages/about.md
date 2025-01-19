@@ -15,3 +15,8 @@ I am a 4th year PhD candidate in Economics at the University of Mannheim. I am a
 <p align="justify">
 You can reach me at <a href="mailto:zaratecisternas@gmail.com" style="color: black;">zaratecisternas@gmail.com</a>  
 </p>
+
+<p align="justify">
+Fun Fact: There is another Pablo Zarate, who also happens to be interested in Labor Economics. Check out his <a href="mailto:zaratecisternas@gmail.com" style="color: black;">website</a>!  
+</p>
+
