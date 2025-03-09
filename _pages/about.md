@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- Intro paragraph with proper spacing -->
 <!-- Main bio with better paragraph breaks -->
-<p>Hello! I'm currently in my 4th year as a PhD candidate in Economics at the University of Mannheim. My research focuses on empirical microeconomics, with particular emphasis on labor markets and economic history.</p>
+<p>Welcome to my website! I'm currently in my 4th year as a PhD candidate in Economics at the University of Mannheim. My research focuses on empirical microeconomics, with particular emphasis on labor markets and economic history.</p>
 
 <p> I'm interested in labor market institutions and how different factors, like migration and technological change, impact labor markets. I work on both contemporaneous and historical datasets.</p>
 
