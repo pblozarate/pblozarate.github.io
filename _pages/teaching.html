@@ -11,41 +11,26 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Academic Profile</title>
     <style>
-        /* Add some spacing to the whole teaching section */
-        .teaching-section {
-            margin-left: 20px; /* Creates indent for the whole section */
-        }
-        
-        /* Style for the award */
+        /* Style for the award with proper alignment */
         .award {
             color: #0366d6;
-            margin-left: 259px;
-            margin-bottom: 16px;
+            display: block;
+            margin: 5px 0 16px 0; /* Remove left margin to align with course entries */
             position: relative;
-        }
-        .award::before {
-            content: "";
-            display: inline-block;
-            width: 3px;
-            height: 18px;
-            background-color: #0366d6;
-            margin-right: 8px;
-            vertical-align: middle;
+            padding-left: 10px; /* Add padding to account for the vertical bar */
+            border-left: 3px solid #0366d6; /* Use border-left instead of a pseudo-element */
         }
     </style>
 </head>
-<body> 
-    <!-- Add a div with class to indent the whole section -->
-    <div class="teaching-section">
-        <h2>University of Mannheim</h2>
-        
-        <p>Spring 2025        Business Economics II (Tutorial, master level)</p>
-        
-        <p>Spring 2024        Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
-        
-        <p class="award">Recipient of CDSE Teaching Award 2024</p>
-        
-        <p>Spring 2023        Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
-    </div>
+<body>   
+    <h2>University of Mannheim</h2>
+    
+    <p>Spring 2025 Business Economics II (Tutorial, master level)</p>
+    
+    <p>Spring 2024 Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
+    
+    <p class="award">Recipient of CDSE Teaching Award 2024</p>
+    
+    <p>Spring 2023 Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
 </body>
 </html>
