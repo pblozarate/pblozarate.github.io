@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 <!-- Intro paragraph with proper spacing -->
-<p>Hello! I'm a labor economist exploring the intersections of microeconomics, economic history, and applied research.</p>
-
 <!-- Main bio with better paragraph breaks -->
-<p>I'm currently in my 4th year as a PhD candidate in Economics at the University of Mannheim. My research focuses on empirical microeconomics with particular emphasis on labor markets and economic history.</p>
+<p>Hello! I'm currently in my 4th year as a PhD candidate in Economics at the University of Mannheim. My research focuses on empirical microeconomics, with particular emphasis on labor markets and economic history.</p>
 
-<p>I'm fortunate to be advised by <a href="#">Philipp Ager</a> and <a href="#">Nicolas R. Ziebarth</a>.</p>
+<p> I'm interested in labor market institutions and how different factors, like migration and technological change, impact labor markets. I work on both contemporaneous and historical datasets.</p>
+
+<p>I'm advised by <a href="https://www.philippager.com">Philipp Ager</a> and <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a>.</p>
 
 <!-- Contact info -->
 <p>You can find my CV <a href="#">here</a> and reach me at <a href="mailto:zaratecisternas@gmail.com">zaratecisternas@gmail.com</a></p>
