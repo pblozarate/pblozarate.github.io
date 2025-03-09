@@ -11,77 +11,44 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Academic Profile</title>
     <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            color: #24292e;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 40px 20px;
+        /* Add some spacing to the whole teaching section */
+        .teaching-section {
+            margin-left: 20px; /* Creates indent for the whole section */
         }
-        h1 {
-            font-size: 2.5rem;
-            font-weight: 500;
-            border-bottom: 1px solid #eaecef;
-            padding-bottom: 0.3em;
-            margin-bottom: 1em;
-        }
-        h2 {
-            font-size: 1.75rem;
-            font-weight: 500;
-            margin-top: 1.5em;
-            margin-bottom: 0.75em;
-        }
-        .teaching-entry {
-            display: flex;
-            margin-bottom: 1em;
-        }
-        .semester {
-            width: 150px;
-            font-weight: 500;
-        }
-        .course {
-            flex: 1;
-        }
+        
+        /* Style for the award */
         .award {
             color: #0366d6;
-            margin: 0 0 16px 150px;
-            font-size: 1em;
-            font-weight: 500;
-            border-left: 3px solid #0366d6;
-            padding-left: 8px;
+            margin-left: 259px;
+            margin-bottom: 16px;
+            position: relative;
+        }
+        .award::before {
+            content: "";
             display: inline-block;
-        }
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
+            width: 3px;
+            height: 18px;
+            background-color: #0366d6;
+            margin-right: 8px;
+            vertical-align: middle;
         }
     </style>
 </head>
 <body>
+    <!-- Remove the duplicate "Teaching" heading and just keep one -->
     <h1>Teaching</h1>
     
-    <h2>University of Mannheim</h2>
-    <div class="teaching-entry">
-        <div class="semester">Spring 2025</div>
-        <div class="course">Business Economics II (Tutorial, master level)</div>
-    </div>
-  
-    <div class="teaching-entry">
-        <div class="semester">Spring 2024</div>
-        <div class="course">
-            Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a>
-        </div>
-    </div>
-    
-    <div class="award">Recipient of CDSE Teaching Award 2024</div>
-    
-    <div class="teaching-entry">
-        <div class="semester">Spring 2023</div>
-        <div class="course">Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></div>
+    <!-- Add a div with class to indent the whole section -->
+    <div class="teaching-section">
+        <h2>University of Mannheim</h2>
+        
+        <p>Spring 2025        Business Economics II (Tutorial, master level)</p>
+        
+        <p>Spring 2024        Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
+        
+        <div class="award">Recipient of CDSE Teaching Award 2024</div>
+        
+        <p>Spring 2023        Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
     </div>
 </body>
 </html>
