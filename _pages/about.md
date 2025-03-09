@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- Remove the visible DOCTYPE declaration -->
-<!-- Keep only one "About me" heading -->
-<h1>About me</h1>
 
 <!-- Intro paragraph with proper spacing -->
 <p>Hello! I'm a labor economist exploring the intersections of microeconomics, economic history, and applied research.</p>
