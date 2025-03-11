@@ -39,7 +39,7 @@ author_profile: true
   .paper-title {
     font-size: 1.2rem;
     font-weight: 600;
-    color: #2c3e50;
+    color: #2c6fd1;
     flex-grow: 1;
   }
   
@@ -104,10 +104,10 @@ author_profile: true
     </div>
     <div class="paper-content">
       <div class="paper-tags">
-        <span class="tag">Causal Inference</span>
-        <span class="tag">Network Economics</span>
+        <span class="tag">Migration</span>
+        <span class="tag">Labor Unions</span>      
       </div>
-      <div class="paper-abstract">Investigating novel methodological approaches to identifying causal relationships in markets with complex network structures.</div>
+      <div class="paper-abstract">I investigate the impact that German Fourty-Eighter migrants had on the start of the Labor Movement in 19th Century US.</div>
     </div>
   </div>
   
@@ -124,19 +124,23 @@ author_profile: true
         <span class="tag">Migration</span>
         <span class="tag">Public Goods</span>
       </div>
-      <div class="paper-abstract">Examining how different climate policy instruments affect the rate and direction of technological innovation across sectors.</div>
+      <div class="paper-abstract">We examine to which extent public goods affect the migration decision.</div>
     </div>
   </div>
   
   <div class="paper-item">
     <div class="paper-header" onclick="togglePaper(this.parentNode)">
       <div>
-        <div class="paper-title">Evidence from Text-to-Image AI</div>
+        <div class="paper-title">The Impact of Generative AI on Creative Industries: Evidence from Text-to-Image AI</div>
       </div>
       <span class="expand-icon">›</span>
     </div>
     <div class="paper-content">
-      <div class="paper-abstract">Brief description of the ongoing research and its potential contributions to the field. Expected completion in Summer 2025.</div>
+     <div class="paper-tags">
+        <span class="tag">Online Labor Markets</span>
+        <span class="tag">Generative AI</span>
+    </div>
+      <div class="paper-abstract">I investigate the impact that Generative AI has had on Creative Industries.</div>
     </div>
   </div>
 </section>
