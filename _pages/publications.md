@@ -114,7 +114,7 @@ author_profile: true
   <div class="paper-item">
     <div class="paper-header" onclick="togglePaper(this.parentNode)">
       <div>
-        <div class="paper-title">Migration and Public Goods: Evidence from the Near-Universe of Italian Migrants</div>
+        <div class="paper-title">Migration and Public Goods: Evidence from the Near-Universe of Italian Migrant [Draft available upon request]s</div>
         <div class="paper-authors">With <span class="coauthor">Giacomo Corneo</span>, <span class="coauthor">Chiara Malavasi</span> and <span class="coauthor">Guido Neidhöfer</span></div>
       </div>
       <span class="expand-icon">›</span>
