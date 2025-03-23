@@ -6,7 +6,35 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 6
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Profile</title>
+    <style>
+        /* Style for the award with proper alignment */
+        .award {
+            color: #0366d6;
+            display: block;
+            margin: 5px 0 16px 20px; /* Add a subtle 20px left margin for slight indentation */
+            position: relative;
+            padding-left: 10px; /* Add padding to account for the vertical bar */
+            border-left: 3px solid #0366d6; /* Use border-left instead of a pseudo-element */
+        }
+    </style>
+</head>
+<body>
+    <h1>Teaching</h1>
+    
+    <h2>University of Mannheim</h2>
+    
+    <p>Spring 2025 Business Economics II (Tutorial, master level)</p>
+    
+    <p>Spring 2024 Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
+    
+    <p class="award">Recipient of CDSE Teaching Award 2024</p>
+    
+    <p>Spring 2023 Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
+</body>
+</html>
