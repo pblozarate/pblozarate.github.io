@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>CDSE Mannheim</a>. Address. Contacts. Motto. Etc.
 
