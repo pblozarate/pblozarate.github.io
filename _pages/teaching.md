@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,9 +23,7 @@ nav_order: 6
         }
     </style>
 </head>
-<body>
-    <h1>Teaching</h1>
-    
+<body>   
     <h2>University of Mannheim</h2>
     
     <p>Spring 2025 Business Economics II (Tutorial, master level)</p>
