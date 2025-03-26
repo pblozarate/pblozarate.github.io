@@ -28,10 +28,10 @@ nav_order: 6
     
     <p>Spring 2025 Business Economics II (Tutorial, master level)</p>
     
-    <p>Spring 2024 Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
+    <p>Spring 2024 Microeconomics A (Tutorial, bachelor level) - <a href="_data/Micro A 2024.pdf">Evaluation</a></p>
     
     <p class="award">Recipient of CDSE Teaching Award 2024</p>
     
-    <p>Spring 2023 Microeconomics A (Tutorial, bachelor level) - <a href="#">Evaluation</a></p>
+    <p>Spring 2023 Microeconomics A (Tutorial, bachelor level) - <a href="_data/Micro A 2023.pdf">Evaluation</a></p>
 </body>
 </html>
