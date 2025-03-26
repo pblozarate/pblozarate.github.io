@@ -29,7 +29,7 @@ latest_posts:
 
 <!-- Intro paragraph with proper spacing -->
 <!-- Main bio with better paragraph breaks -->
-<p>Welcome to my website! I'm currently in my 4th year as a PhD candidate in Economics at <a href="https://www.uni-mannheim.de/gess/programs/cdse/">CDSE Mannheim.</a> I am also a Researcher at <a href="www.google.com/search?client=opera&q=zew+mannheim&sourceid=opera&ie=UTF-8&oe=UTF-8">ZEW.</a> My research focuses on empirical microeconomics, with particular emphasis on labor markets and economic history.</p>
+<p>Welcome to my website! I'm currently in my 4th year as a PhD candidate in Economics at <a href="https://www.uni-mannheim.de/gess/programs/cdse/">CDSE Mannheim.</a> I am also a Researcher at <a href="https://www.zew.de/en/">ZEW.</a> My research focuses on empirical microeconomics, with particular emphasis on labor markets and economic history.</p>
 
 <p> I'm interested in labor markets and how different factors, like migration and technological change, impact them. I work with both contemporaneous and historical datasets.</p>
 
