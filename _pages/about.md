@@ -31,7 +31,7 @@ latest_posts:
 <!-- Main bio with better paragraph breaks -->
 <p>Welcome to my website! I'm currently in my 4th year as a PhD candidate in Economics at <a href="https://www.uni-mannheim.de/gess/programs/cdse/">CDSE Mannheim</a> My research focuses on empirical microeconomics, with particular emphasis on labor markets and economic history.</p>
 
-<p> I'm interested in labor market institutions and how different factors, like migration and technological change, impact labor markets. I work on both contemporaneous and historical datasets.</p>
+<p> I'm interested in labor markets and how different factors, like migration and technological change, impact them. I work with both contemporaneous and historical datasets.</p>
 
 <p>I'm advised by <a href="https://www.philippager.com">Philipp Ager</a> and <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a>.</p>
 
