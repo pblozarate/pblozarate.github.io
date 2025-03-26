@@ -26,12 +26,12 @@ nav_order: 6
 <body>   
     <h2>University of Mannheim</h2>
     
-    <p>Spring 2025 Business Economics II (Tutorial, master level)</p>
+    <p>Spring 2025 <strong>Business Economics II<\strong> (Tutorial, master level)</p>
     
-    <p>Spring 2024 Microeconomics A (Tutorial, bachelor level) - <a href="_data/Micro A 2024.pdf">Evaluation</a></p>
+    <p>Spring 2024 <strong>Microeconomics A<\strong> (Tutorial, bachelor level) - <a href="_data/Micro A 2024.pdf">Evaluation</a></p>
     
     <p class="award">Recipient of CDSE Teaching Award 2024</p>
     
-    <p>Spring 2023 Microeconomics A (Tutorial, bachelor level) - <a href="_data/Micro A 2023.pdf">Evaluation</a></p>
+    <p>Spring 2023 <strong>Microeconomics A<\strong> (Tutorial, bachelor level) - <a href="_data/Micro A 2023.pdf">Evaluation</a></p>
 </body>
 </html>
