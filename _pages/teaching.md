@@ -28,10 +28,10 @@ nav_order: 6
     
     <p>Spring 2025 <b>Business Economics II</b> (Tutorial, master level)</p>
     
-    <p>Spring 2024 <b>Microeconomics A</b> (Tutorial, bachelor level) - <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2024.pdf">Evaluation</a> 1.1/4.0</p>
+    <p>Spring 2024 <b>Microeconomics A</b> (Tutorial, bachelor level) - <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2024.pdf">Evaluation</a> 1.1/5.0</p>
     
     <p class="award">Recipient of CDSE Teaching Award 2024</p>
     
-    <p>Spring 2023 <b>Microeconomics A</b> (Tutorial, bachelor level) - <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2023.pdf">Evaluation</a> 1.0/4.0</p>
+    <p>Spring 2023 <b>Microeconomics A</b> (Tutorial, bachelor level) - <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2023.pdf">Evaluation</a> 1.0/5.0</p>
 </body>
 </html>
