@@ -1,0 +1,11 @@
+# main navigation links
+# The order of items here determines the order in the navigation bar
+
+- title: About
+  url: /about/
+
+- title: Research
+  url: /publications/
+
+- title: Teaching
+  url: /teaching/
