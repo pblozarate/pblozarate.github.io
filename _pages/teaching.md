@@ -26,8 +26,10 @@ nav_order: 6
 <body>   
     <h2>University of Mannheim</h2>
     
-    <p>Spring 2025 <b>Business Economics II</b> (Tutorial, master level)</p>
-    
+    <p>Spring 2025 <b>Business Economics II</b> (Tutorial, master level) - <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2024.pdf">Evaluation</a> 1.3/5.0</p>
+
+    <p class="award">Co-Recipient of CDSE Teaching Award 2025</p>
+
     <p>Spring 2024 <b>Microeconomics A</b> (Tutorial, bachelor level) - <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2024.pdf">Evaluation</a> 1.1/5.0</p>
     
     <p class="award">Recipient of CDSE Teaching Award 2024</p>
