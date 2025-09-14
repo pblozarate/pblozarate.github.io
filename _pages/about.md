@@ -40,5 +40,5 @@ latest_posts:
 
 <!-- Fun fact with styling matching your existing design -->
 <div style="background-color: #f6f8fa; border-left: 3px solid #0366d6; padding: 15px; margin: 20px 0; border-radius: 3px;">
-  <p><strong>Fun Fact:</strong> There's another Pablo Zarate who also specializes in Labor Economics! Check out his work <a href="https://zaratepablo.github.io">here</a>.</p>
+  <p><strong>Fun Fact:</strong> There's another Pablo Zarate who also does research in Labor Economics! Check out his profile <a href="https://zaratepablo.github.io">here</a>.</p>
 </div>
