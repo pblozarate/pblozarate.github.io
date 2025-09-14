@@ -9,7 +9,7 @@ profile:
   image: profile_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>P032</p>
+    <p></p>
     <p>L7 1</p>
     <p>Mannheim</p>
 
@@ -33,10 +33,10 @@ latest_posts:
 
 <p> I'm interested in labor markets and how different factors, like migration and technological change, impact them. I work with both contemporaneous and historical datasets.</p>
 
-<p>I'm advised by <a href="https://www.philippager.com">Philipp Ager</a> and <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a>.</p>
+<p>I'm advised by <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a>.</p> and <a href="https://www.philippager.com">Philipp Ager</a> and 
 
 <!-- Contact info -->
-<p>You can find my CV <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/CV_Zarate.pdf">here</a> and reach me at <a href="mailto:pzaratec@mail.uni-mannheim.de">zaratecisternas@gmail.com</a></p>
+<p>You can find my CV <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/CV_Zarate.pdf">here</a> and reach me at <a href="mailto:pzaratec@mail.uni-mannheim.de">pzaratec@mail.uni-mannheim.de</a></p>
 
 <!-- Fun fact with styling matching your existing design -->
 <div style="background-color: #f6f8fa; border-left: 3px solid #0366d6; padding: 15px; margin: 20px 0; border-radius: 3px;">
