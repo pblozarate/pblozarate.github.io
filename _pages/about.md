@@ -33,7 +33,7 @@ latest_posts:
 
 <p> I'm interested in labor markets and how different factors, like migration and technological change, impact them. I work with both contemporaneous and historical datasets.</p>
 
-<p>I'm advised by <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a>.</p> and <a href="https://www.philippager.com">Philipp Ager</a> and 
+<p>I'm advised by <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a> and <a href="https://www.philippager.com">Philipp Ager</a>.</p> 
 
 <!-- Contact info -->
 <p>You can find my CV <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/CV_Zarate.pdf">here</a> and reach me at <a href="mailto:pzaratec@mail.uni-mannheim.de">pzaratec@mail.uni-mannheim.de</a></p>
