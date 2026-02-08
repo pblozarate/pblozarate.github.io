@@ -493,6 +493,32 @@ footer.fixed-bottom {
   }
 }
 
+// Explicit light mode footer override
+html:not([data-theme="dark"]) footer.fixed-bottom {
+  background-color: $grey-color-light !important;
+
+  .container {
+    color: $grey-color-dark !important;
+  }
+
+  a {
+    color: $black-color !important;
+  }
+}
+
+// Explicit dark mode footer override
+html[data-theme="dark"] footer.fixed-bottom {
+  background-color: $grey-color-dark !important;
+
+  .container {
+    color: $grey-color-light !important;
+  }
+
+  a {
+    color: $white-color !important;
+  }
+}
+
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
