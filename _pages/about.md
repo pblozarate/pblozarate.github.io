@@ -36,9 +36,9 @@ latest_posts:
 <p>I'm advised by <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a> and <a href="https://www.philippager.com">Philipp Ager</a>.</p> 
 
 <!-- Contact info -->
-<p>You can find my CV <a href="https://www.overleaf.com/read/crgcyzbsnwkb/pdf" target="_blank">here</a> and reach me at <a href="mailto:pzaratec@mail.uni-mannheim.de">pzaratec@mail.uni-mannheim.de</a></p>
+<p>You can find my CV <a href="/assets/pdf/CV_Zarate.pdf" target="_blank">here</a> and reach me at <a href="mailto:pzaratec@mail.uni-mannheim.de">pzaratec@mail.uni-mannheim.de</a></p>
 
 <!-- Fun fact with styling matching your existing design -->
-<div style="background-color: #f6f8fa; border-left: 3px solid #0366d6; padding: 15px; margin: 20px 0; border-radius: 3px;">
+<div style="background-color: var(--global-card-bg-color); border-left: 3px solid var(--global-theme-color); padding: 15px; margin: 20px 0; border-radius: 3px;">
   <p><strong>Fun Fact:</strong> There's another Pablo Zarate who also does research in Labor Economics! Check out his profile <a href="https://zaratepablo.github.io">here</a>.</p>
 </div>
