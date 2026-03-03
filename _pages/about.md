@@ -31,7 +31,7 @@ latest_posts:
 <!-- Main bio with better paragraph breaks -->
 <p>Welcome to my website! I'm currently in my 5th year as a PhD candidate in Economics at <a href="https://www.uni-mannheim.de/gess/programs/cdse/">CDSE Mannheim.</a> I am also a Researcher at <a href="https://www.zew.de/en/">ZEW.</a> My research focuses on empirical microeconomics.</p>
 
-<p> I'm interested in labor markets and how different factors, like migration and technological change, impact them. I work with both contemporaneous and historical datasets.</p>
+<p> I'm interested in labor markets and how different institutions, like unions and firm diversity commitments, impact them.</p>
 
 <p>I'm advised by <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a> and <a href="https://www.philippager.com">Philipp Ager</a>.</p> 
 
