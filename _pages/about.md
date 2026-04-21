@@ -33,7 +33,7 @@ latest_posts:
 
 <p> I'm interested in labor markets and how different institutions, like unions and firm diversity commitments, impact them.</p>
 
-<p>I'm advised by <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a> and <a href="https://www.philippager.com">Philipp Ager</a>.</p> 
+<p>I'm advised by <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a>.</p>
 
 <!-- Contact info -->
 <p>You can find my CV <a href="/assets/pdf/CV_Zarate.pdf" target="_blank">here</a> and reach me at <a href="mailto:pzaratec@mail.uni-mannheim.de">pzaratec@mail.uni-mannheim.de</a></p>
