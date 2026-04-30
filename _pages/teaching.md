@@ -2,38 +2,42 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description: University tutorials at the University of Mannheim and tailored economics seminars for organizations.
 nav: true
 nav_order: 6
+_styles: |
+  .award {
+    color: #0366d6;
+    display: block;
+    margin: 5px 0 16px 20px;
+    position: relative;
+    padding-left: 10px;
+    border-left: 3px solid #0366d6;
+  }
 ---
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Academic Profile</title>
-    <style>
-        /* Style for the award with proper alignment */
-        .award {
-            color: #0366d6;
-            display: block;
-            margin: 5px 0 16px 20px; /* Add a subtle 20px left margin for slight indentation */
-            position: relative;
-            padding-left: 10px; /* Add padding to account for the vertical bar */
-            border-left: 3px solid #0366d6; /* Use border-left instead of a pseudo-element */
-        }
-    </style>
-</head>
-<body>   
-    <h2>University of Mannheim</h2>
-    
-    <p>Spring 2025 <b>Business Economics II</b> (Tutorial, master level) - <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/BE_Evaluations_2025.pdf">Evaluation</a> 1.3/5.0</p>
 
-    <p class="award">Co-Recipient of CDSE Teaching Award 2025</p>
+## University of Mannheim
 
-    <p>Spring 2024 <b>Microeconomics A</b> (Tutorial, bachelor level) - <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2024.pdf">Evaluation</a> 1.1/5.0</p>
-    
-    <p class="award">Recipient of CDSE Teaching Award 2024</p>
-    
-    <p>Spring 2023 <b>Microeconomics A</b> (Tutorial, bachelor level) - <a href="https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2023.pdf">Evaluation</a> 1.0/5.0</p>
-</body>
-</html>
+Spring 2025 **Business Economics II** (Tutorial, master level) - [Evaluation](https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/BE_Evaluations_2025.pdf) 1.3/5.0
+
+<p class="award">Co-Recipient of CDSE Teaching Award 2025</p>
+
+Spring 2024 **Microeconomics A** (Tutorial, bachelor level) - [Evaluation](https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2024.pdf) 1.1/5.0
+
+<p class="award">Recipient of CDSE Teaching Award 2024</p>
+
+Spring 2023 **Microeconomics A** (Tutorial, bachelor level) - [Evaluation](https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/Micro_A_2023.pdf) 1.0/5.0
+
+## Economics seminars for organizations
+
+I offer tailored economics seminars for interested groups, including organizations active in international cooperation. Content and depth are adapted to the audience’s background and policy context.
+
+Representative topics include:
+
+- Labor-market consequences of technological disruption and structural change
+- Economic systems and core economic principles, framed for non-specialist audiences
+- Consequences of economic liberalization, including trade, markets, and institutions
+
+Sessions can be organized as single meetings or multi-part formats, in person or online, according to the host’s needs.
+
+For seminar inquiries, please contact me at [pzaratec@mail.uni-mannheim.de](mailto:pzaratec@mail.uni-mannheim.de).
