@@ -18,6 +18,8 @@ _styles: |
 
 ## University of Mannheim
 
+Spring 2026 **Business Economics II** (Tutorial, master level) - [Evaluation](https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/BE_Evaluations_2026.pdf) 1.5/5.0
+
 Spring 2025 **Business Economics II** (Tutorial, master level) - [Evaluation](https://github.com/pblozarate/pblozarate.github.io/blob/main/_data/BE_Evaluations_2025.pdf) 1.3/5.0
 
 <p class="award">Co-Recipient of CDSE Teaching Award 2025</p>
