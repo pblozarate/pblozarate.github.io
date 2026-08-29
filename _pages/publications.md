@@ -15,6 +15,13 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="bibliography" style="text-align: left; color: var(--global-text-color);">Job Market Paper</h2>
+{% bibliography --group_by none --query @*[category=jmp]* %}
+
+<h2 class="bibliography" style="text-align: left; color: var(--global-text-color);">Working Papers</h2>
+{% bibliography --group_by none --query @*[category=working]* %}
+
+<h2 class="bibliography" style="text-align: left; color: var(--global-text-color);">Work in Progress</h2>
+{% bibliography --group_by none --query @*[category=progress]* %}
 
 </div>
