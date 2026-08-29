@@ -30,7 +30,7 @@ latest_posts:
 <p> I'm interested in labor markets and how different institutions, like unions and firm diversity commitments, impact them.</p>
 
 <!-- Job market announcement -->
-<p><strong>I am on the 2026&ndash;2027 academic job market</strong> and will be available for interviews at the EEA/EJME and ASSA meetings. My <a href="/publications/#zarate2026b">job market paper</a> studies the labor market consequences of corporate diversity pledges.</p>
+<p><strong>I am on the 2026&ndash;2027 academic job market.</strong> My <a href="/publications/#zarate2026b">job market paper</a> studies the labor market consequences of corporate diversity pledges.</p>
 
 <p>I'm advised by <a href="https://www.zew.de/en/team/nrz">Nicolas R. Ziebarth</a>.</p>
 
