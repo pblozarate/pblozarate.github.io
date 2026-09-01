@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://pblozarate.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pblozarate.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-09-01T21:19:54+00:00</updated><id>https://pblozarate.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://pblozarate.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pblozarate.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-09-01T21:25:04+00:00</updated><id>https://pblozarate.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">a post with image galleries</title><link href="https://pblozarate.github.io/blog/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries" /><published>2024-12-04T01:59:00+00:00</published><updated>2024-12-04T01:59:00+00:00</updated><id>https://pblozarate.github.io/blog/2024/photo-gallery</id><content type="html" xml:base="https://pblozarate.github.io/blog/2024/photo-gallery/"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p>
 
 <h2 id="lightbox2"><a href="https://lokeshdhakar.com/projects/lightbox2/">Lightbox2</a></h2>
@@ -107,7 +107,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="aac3429f-6b5d-4f4c-9cfd-c787c0adad97" data-name="log">
+<ul id="log" class="tab" data-tab="e2ff7d9a-415c-4c27-9fa0-d357af6d701a" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -122,7 +122,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="aac3429f-6b5d-4f4c-9cfd-c787c0adad97" data-name="log">
+<ul class="tab-content" id="e2ff7d9a-415c-4c27-9fa0-d357af6d701a" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -146,7 +146,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="9a7b08b7-d1a3-4246-aad0-5beffb1f0163" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="bb1fb581-70b7-4a40-877d-04e100c2025c" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -157,7 +157,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="9a7b08b7-d1a3-4246-aad0-5beffb1f0163" data-name="data-struct">
+<ul class="tab-content" id="bb1fb581-70b7-4a40-877d-04e100c2025c" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -179,7 +179,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="8c9b823f-2b8d-4bd6-8ac4-89f1aecfbe4e" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="a37aea81-5356-46f1-94e1-d55524468075" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -194,7 +194,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="8c9b823f-2b8d-4bd6-8ac4-89f1aecfbe4e" data-name="something-else">
+<ul class="tab-content" id="a37aea81-5356-46f1-94e1-d55524468075" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
