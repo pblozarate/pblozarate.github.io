@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "University tutorials at the University of Mannheim and tailored economics seminars for organizations.",
+          description: "Graduate and undergraduate teaching at the University of Mannheim.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
