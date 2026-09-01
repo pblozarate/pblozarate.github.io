@@ -23,13 +23,9 @@ _styles: |
 
 ## University of Mannheim
 
-### Instructor of record
-
-2023–2026 **Mathematics for Social Scientists** (PhD level)
-
-### Teaching assistant
-
 <p class="scalenote">Evaluations are on the German scale, where <strong>1 is the best</strong> possible score and 5 the worst.</p>
+
+Fall 2026 **Mathematics for Social Scientists** (PhD level, instructor of record)
 
 Spring 2026 **Business Economics II** (Tutorial, master level) - [Evaluation](/assets/teaching/BE_Evaluations_2026.pdf) 1.5/5.0
 
