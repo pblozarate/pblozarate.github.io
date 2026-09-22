@@ -25,7 +25,7 @@ latest_posts:
 
 <!-- Intro paragraph with proper spacing -->
 <!-- Main bio with better paragraph breaks -->
-<p>Welcome to my website! I'm currently in my 5th year as a PhD candidate in Economics at <a href="https://www.uni-mannheim.de/gess/programs/cdse/">CDSE Mannheim.</a> I am also a Researcher at <a href="https://www.zew.de/en/">ZEW.</a> My research focuses on empirical microeconomics.</p>
+<p>Welcome to my website! I'm currently in my 6th year as a PhD candidate in Economics at <a href="https://www.uni-mannheim.de/gess/programs/cdse/">CDSE Mannheim.</a> I am also a Researcher at <a href="https://www.zew.de/en/">ZEW.</a> My research focuses on empirical microeconomics.</p>
 
 <p> I'm interested in labor markets and how different institutions, like firm diversity commitments and unions, impact them.</p>
 
