@@ -331,26 +331,19 @@
     }
     pdfjsLib.GlobalWorkerOptions.workerSrc =
       "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
-    pdfjsLib.getDocument(url).promise.then(function (pdf) {
-      status.remove();
-      var chain = Promise.resolve();
+    pdfjsLib.getDocument(url).promise.then(async function (pdf) {
+      if (status) status.remove();
       for (var i = 1; i <= pdf.numPages; i++) {
-        (function (pageNumber) {
-          chain = chain.then(function () {
-            return pdf.getPage(pageNumber).then(function (page) {
-              var viewport = page.getViewport({ scale: 2 });
-              var canvas = document.createElement("canvas");
-              canvas.width = viewport.width;
-              canvas.height = viewport.height;
-              holder.appendChild(canvas);
-              return page.render({ canvasContext: canvas.getContext("2d"), viewport: viewport }).promise;
-            });
-          });
-        })(i);
+        var page = await pdf.getPage(i);
+        var viewport = page.getViewport({ scale: 2 });
+        var canvas = document.createElement("canvas");
+        canvas.width = viewport.width;
+        canvas.height = viewport.height;
+        holder.appendChild(canvas);
+        page.render({ canvasContext: canvas.getContext("2d"), viewport: viewport });
       }
-      return chain;
     }).catch(function () {
-      status.textContent = "The CV could not be displayed. Use the download link above.";
+      if (status) status.textContent = "The CV could not be displayed. Use the download link above.";
     });
   })();
 </script>
