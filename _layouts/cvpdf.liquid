@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">
+      <a href="{{ '/assets/pdf/CV_Zarate.pdf' | relative_url }}">Download PDF</a>
+    </p>
+  </header>
+  <article>
+    <div id="cv-pages"></div>
+    <p id="cv-status">Loading CV…</p>
+  </article>
+</div>
+<style>
+  #cv-pages canvas {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto 1.25rem;
+    background: #fff;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.18);
+  }
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script>
+  (function () {
+    var status = document.getElementById("cv-status");
+    var holder = document.getElementById("cv-pages");
+    var url = "{{ '/assets/pdf/CV_Zarate.pdf' | relative_url }}";
+    if (!window.pdfjsLib) {
+      status.textContent = "The viewer could not start. Use the download link above.";
+      return;
+    }
+    pdfjsLib.GlobalWorkerOptions.workerSrc =
+      "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
+    pdfjsLib.getDocument(url).promise.then(function (pdf) {
+      status.remove();
+      var chain = Promise.resolve();
+      for (var i = 1; i <= pdf.numPages; i++) {
+        (function (pageNumber) {
+          chain = chain.then(function () {
+            return pdf.getPage(pageNumber).then(function (page) {
+              var viewport = page.getViewport({ scale: 2 });
+              var canvas = document.createElement("canvas");
+              canvas.width = viewport.width;
+              canvas.height = viewport.height;
+              holder.appendChild(canvas);
+              return page.render({ canvasContext: canvas.getContext("2d"), viewport: viewport }).promise;
+            });
+          });
+        })(i);
+      }
+      return chain;
+    }).catch(function () {
+      status.textContent = "The CV could not be displayed. Use the download link above.";
+    });
+  })();
+</script>
