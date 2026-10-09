@@ -41,6 +41,7 @@ latest_posts:
 <h2 style="font-size: 1.35rem; margin-top: 1.8rem;">Presentations</h2>
 <ul style="line-height: 1.8;">
   <li>Jan 3&ndash;5, 2027 — <a href="https://www.aeaweb.org/conference/" target="_blank">ASSA Annual Meeting, Washington, DC</a></li>
+  <li>Dec 2&ndash;4, 2026 — <a href="https://ewmes2026.pl/" target="_blank">European Winter Meeting of the Econometric Society (EWMES), Warsaw</a></li>
   <li>Nov 12&ndash;14, 2026 — <a href="https://lacealames2026.org/" target="_blank">LACEA-LAMES Annual Meeting, Lima, Peru</a></li>
   <li>Sep 18&ndash;20, 2026 — <a href="https://eh.net/eha-annual-meeting/" target="_blank">Economic History Association Annual Meeting (EHA), St. Louis</a></li>
   <li>Aug 31 &ndash; Sep 2, 2026 — <a href="https://www.ub.edu/eale2026/" target="_blank">38th Annual Conference of the European Association of Labour Economists (EALE), Barcelona</a></li>
