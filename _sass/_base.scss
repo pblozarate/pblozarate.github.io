@@ -786,6 +786,24 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      .presented {
+        margin: 0.15rem 0 0.45rem;
+        font-size: 0.92rem;
+        line-height: 1.45;
+        color: var(--global-text-color-light);
+
+        .presented-label {
+          margin-right: 0.35rem;
+          font-variant: small-caps;
+          letter-spacing: 0.03em;
+          color: var(--global-text-color);
+        }
+
+        .presented-sep {
+          margin: 0 0.1rem;
+        }
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);

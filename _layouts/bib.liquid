@@ -182,6 +182,16 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.presented %}
+      <div class="presented">
+        <span class="presented-label">Presented at</span>
+        {%- assign talks = entry.presented | split: '|' -%}
+        {%- for talk in talks -%}
+          {{ talk | strip }}
+          {%- unless forloop.last %} <span class="presented-sep">&middot;</span> {% endunless -%}
+        {%- endfor -%}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
